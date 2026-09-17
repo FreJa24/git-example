@@ -16,3 +16,5 @@
 ### How do you create a patch with `git diff`?
 - Create: Run git diff > my.patch
 - This command saves your code changes into a file
+
+[Github Link](https://github.com/FreJa24/git-example)
